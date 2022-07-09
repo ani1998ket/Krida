@@ -1,0 +1,23 @@
+{
+  "name": "krida",
+  "version": "0.0.1",
+  "description": "Krida is a javascript library to write HTML5 games easily.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ani1998ket/Krida.git"
+  },
+  "author": "ani1998ket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ani1998ket/Krida/issues"
+  },
+  "homepage": "https://github.com/ani1998ket/Krida#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
